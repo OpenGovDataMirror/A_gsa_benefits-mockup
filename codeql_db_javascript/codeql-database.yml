@@ -1,0 +1,10 @@
+---
+sourceLocationPrefix: "/home/user/asf/cloner/gh/clones/A_gsa_benefits-mockup"
+baselineLinesOfCode: 11723
+unicodeNewlines: true
+columnKind: "utf16"
+primaryLanguage: "javascript"
+creationMetadata:
+  sha: "598ca23e6dcf8c978daa3ecc0689b3458cb66cd0"
+  cliVersion: "2.11.1"
+  creationTime: "2022-12-13T23:08:02.586430673Z"
